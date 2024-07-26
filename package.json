@@ -1,7 +1,7 @@
 {
-  "name": "medicos",
+  "name": "weatherproject",
   "version": "1.0.0",
-  "description": "Online Consultation Website",
+  "description": "Weather app api",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
